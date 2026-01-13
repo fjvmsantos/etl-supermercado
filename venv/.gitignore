@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Arquivos Python
+__pycache__/
+*.pyc
+
+# Outputs gerados
+output/
+
+# Configurações do VS Code (opcional)
+.vscode/

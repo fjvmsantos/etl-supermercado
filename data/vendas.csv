@@ -1,0 +1,104 @@
+data_venda,produto,categoria,quantidade,valor_total
+2025-01-01,Arroz,Alimentos,5,120.00
+2025-01-10,Feijão,Alimentos,3,45.00
+2025-01-20,Cerveja,Bebidas,12,180.00
+2025-01-21,Detergente,Limpeza,10,25.00
+2025-01-22,Macarrão,Alimentos,4,16.00
+2025-01-22,Vinho Tinto,Bebidas,1,89.90
+2025-01-23,Shampoo,Higiene,2,34.50
+2025-01-24,Sabão em Pó,Limpeza,2,48.00
+2025-01-25,Leite,Alimentos,12,66.00
+2025-01-26,Refrigerante,Bebidas,6,42.00
+2025-01-27,Açúcar,Alimentos,2,10.50
+2025-01-28,Café,Alimentos,3,54.00
+2025-01-29,Desinfetante,Limpeza,1,12.00
+2025-01-30,Sabonete,Higiene,5,15.00
+2025-01-31,Óleo de Soja,Alimentos,2,18.00
+2025-02-01,Arroz,Alimentos,10,240.00
+2025-02-02,Suco de Laranja,Bebidas,4,32.00
+2025-02-03,Papel Higiênico,Higiene,1,22.00
+2025-02-04,Esponja,Limpeza,5,7.50
+2025-02-05,Farinha de Trigo,Alimentos,2,11.00
+2025-02-06,Cerveja,Bebidas,24,360.00
+2025-02-07,Biscoito,Alimentos,10,45.00
+2025-02-08,Pasta de Dente,Higiene,3,27.00
+2025-02-09,Amaciante,Limpeza,1,19.90
+2025-02-10,Feijão,Alimentos,5,75.00
+2025-02-11,Água Mineral,Bebidas,12,24.00
+2025-02-12,Manteiga,Alimentos,2,30.00
+2025-02-13,Álcool em Gel,Limpeza,3,45.00
+2025-02-14,Iogurte,Alimentos,6,18.00
+2025-02-15,Vinho Branco,Bebidas,2,120.00
+2025-02-16,Desodorante,Higiene,2,28.00
+2025-02-17,Multiuso,Limpeza,4,20.00
+2025-02-18,Chocolate,Alimentos,5,35.00
+2025-02-19,Energético,Bebidas,4,48.00
+2025-02-20,Cerveja Artesanal,Bebidas,6,90.00
+2025-02-21,Arroz,Alimentos,2,48.00
+2025-02-22,Fio Dental,Higiene,1,12.00
+2025-02-23,Pão de Forma,Alimentos,2,14.00
+2025-02-24,Vassoura,Limpeza,1,25.00
+2025-02-25,Feijão,Alimentos,4,60.00
+2025-02-26,Refrigerante Zero,Bebidas,3,21.00
+2025-02-27,Molho de Tomate,Alimentos,8,24.00
+2025-02-28,Condicionador,Higiene,1,18.50
+2025-03-01,Água Sanitária,Limpeza,2,14.00
+2025-03-02,Milho Pipoca,Alimentos,3,15.00
+2025-03-03,Chá Gelado,Bebidas,4,28.00
+2025-03-04,Queijo Ralado,Alimentos,10,50.00
+2025-03-05,Sabão em Barra,Limpeza,5,12.50
+2025-03-06,Escova de Dente,Higiene,2,24.00
+2025-03-07,Maionese,Alimentos,1,9.50
+2025-03-08,Gin,Bebidas,1,110.00
+2025-03-09,Saco de Lixo,Limpeza,2,16.00
+2025-03-10,Leite Condensado,Alimentos,4,28.00
+2025-03-11,Cerveja,Bebidas,10,150.00
+2025-03-12,Creme de Leite,Alimentos,3,12.00
+2025-03-13,Protetor Solar,Higiene,1,55.00
+2025-03-14,Limpador de Vidros,Limpeza,1,11.00
+2025-03-15,Azeite,Alimentos,2,70.00
+2025-03-16,Vodka,Bebidas,1,65.00
+2025-03-17,Algodão,Higiene,3,15.00
+2025-03-18,Inseticida,Limpeza,1,22.00
+2025-03-19,Sal,Alimentos,5,10.00
+2025-03-20,Tônica,Bebidas,6,30.00
+2025-03-21,Sardinha Lata,Alimentos,4,20.00
+2025-03-22,Lã de Aço,Limpeza,3,9.00
+2025-03-23,Hastes Flexíveis,Higiene,2,14.00
+2025-03-24,Macarrão Instantâneo,Alimentos,12,30.00
+2025-03-25,Whisky,Bebidas,1,150.00
+2025-03-26,Papel Alumínio,Limpeza,1,8.50
+2025-03-27,Gelatina,Alimentos,10,20.00
+2025-03-28,Suco em Pó,Bebidas,20,20.00
+2025-03-29,Creme Dental Kids,Higiene,2,18.00
+2025-03-30,Pano de Prato,Limpeza,2,12.00
+2025-03-31,Arroz Integral,Alimentos,2,28.00
+2025-04-01,Cachaça,Bebidas,2,40.00
+2025-04-02,Absorvente,Higiene,3,36.00
+2025-04-03,Desengordurante,Limpeza,1,14.00
+2025-04-04,Grão de Bico,Alimentos,2,22.00
+2025-04-05,Espumante,Bebidas,1,75.00
+2025-04-06,Sabonete Líquido,Higiene,1,12.00
+2025-04-07,Saponáceo,Limpeza,2,18.00
+2025-04-08,Lentilha,Alimentos,3,27.00
+2025-04-09,Achocolatado,Alimentos,2,24.00
+2025-04-10,Cerveja,Bebidas,18,270.00
+2025-04-11,Barbeador,Higiene,5,25.00
+2025-04-12,Flanela,Limpeza,4,16.00
+2025-04-13,Aveia,Alimentos,2,14.00
+2025-04-14,Sidra,Bebidas,3,45.00
+2025-04-15,Talco,Higiene,1,15.00
+2025-04-16,Soda Cáustica,Limpeza,1,12.00
+2025-04-17,Atum em Lata,Alimentos,3,21.00
+2025-04-18,Rum,Bebidas,1,80.00
+2025-04-19,Enxaguante Bucal,Higiene,1,22.00
+2025-04-20,Pedra Sanitária,Limpeza,6,12.00
+2025-04-21,Arroz,Alimentos,5,120.00
+2025-04-22,Cerveja,Bebidas,6,90.00
+2025-04-23,Feijão,Alimentos,2,30.00
+2025-04-24,Shampoo,Higiene,1,17.25
+2025-04-25,Detergente,Limpeza,4,10.00
+2025-04-26,Macarrão,Alimentos,5,20.00
+2025-04-27,Vinho Tinto,Bebidas,2,179.80
+2025-04-28,Papel Higiênico,Higiene,2,44.00
+2025-04-29,Sabão em Pó,Limpeza,1,24.00
