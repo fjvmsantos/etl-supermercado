@@ -19,7 +19,9 @@ Os resultados auxiliam decisões relacionadas a:
 ## 🏗️ Estrutura do Projeto
 
 etl-supermercado/
+
 ├── data/ # Dados de entrada (CSV)
+
 ├── output/ # Resultados gerados pelo ETL
 ├── src/ # Código-fonte
 │ ├── extract.py
