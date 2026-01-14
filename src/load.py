@@ -1,6 +1,6 @@
 import os
 
-def load_data(vendas_por_periodo, produtos_por_periodo, output_dir="../output"):
+def load_data(vendas_por_periodo, produtos_por_periodo, output_dir="/output"):
     os.makedirs(output_dir, exist_ok=True)
 
     vendas_por_periodo.to_csv(
